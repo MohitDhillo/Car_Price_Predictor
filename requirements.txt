@@ -14,6 +14,7 @@ decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_16415556
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1667317341051/work
 Flask @ file:///Users/cbousseau/work/recipes/ci_py311/flask_1677937489551/work
 fonttools==4.25.0
+gunicorn==20.1.0
 idna==3.4
 importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1687138353019/work
 ipykernel @ file:///Users/cbousseau/work/recipes/ci_py311/ipykernel_1677921035781/work
